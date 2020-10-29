@@ -1,0 +1,75 @@
+Script started on Sun 16 Feb 2020 11:11:26 AM CST
+landin gingeric projects$ make perim-area-1[K./Project0[K1
+Hello, I'm landin.cs.grinne, running MyroC.3.2
+     connection established to /dev/rfcomm0
+     robot hardware:  Scribbler2   firmware version:  1.1.2
+     fluke hardware:  original fluke firmware version:  2.9.1
+     camera image size (default):  192 (height) by 256 (width)
+return from rCheckHardwareVersionSetCameraSize
+     setting scribbler forward
+connected on socket number:  3
+Robot connected.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+Obstacle on the left. Turning right.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+The robot has made 10 consecutive moves. Now performing short dance 3 times.
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+No obstacle on the right or left. Moving forward.
+motion for robot superceded by later motion
+No obstacle on the right or left. Moving forward.
+Obstacle on the left. Turning right.
+No obstacle on the right or left. Moving forward.
+Obstacle on the left. Turning right.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+Obstacle on the right. Turning left.
+Obstacle on the right. Turning left.
+The robot has made 2 consecutive turns in the same direction. Turning right and beeping.
+The robot has made 10 consecutive moves. Now performing short dance 3 times.
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+motion for robot superceded by later motion
+No obstacle on the right or left. Moving forward.
+motion for robot superceded by later motion
+Obstacle on the left. Turning right.
+Obstacle on the left. Turning right.
+The robot has made 2 consecutive turns in the same direction. Turning right and beeping.
+Obstacle on both sides; turning right
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+No obstacle on the right or left. Moving forward.
+Obstacle on the right. Turning left.
+The robot has made 10 consecutive moves. Now performing short dance 3 times.
+^^C  ^C
+landin gingeric projects$ exit[K[K[K[Kexit
+exit
+
+Script done on Sun 16 Feb 2020 11:13:27 AM CST
